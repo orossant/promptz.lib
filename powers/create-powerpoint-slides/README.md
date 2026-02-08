@@ -4,7 +4,7 @@ A comprehensive Kiro custom power for creating, editing, and manipulating PowerP
 
 ## 📋 Overview
 
-This custom power enables users to create professional PowerPoint presentations programmatically using the Model Context Protocol (MCP). It provides 32+ specialized tools for presentation management, slide operations, content creation, and professional design enhancement.
+This custom power enables users to create professional PowerPoint presentations programmatically using the Model Context Protocol (MCP). It provides tools for presentation management, slide operations, content creation, and professional design enhancement.
 
 ## 🚀 Features
 
