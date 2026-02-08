@@ -61,21 +61,21 @@ When working on presentations:
 ## Example Workflows
 
 ### Create a Basic Presentation
-```
+
 1. Create a new presentation
 2. Add a title slide with your presentation title
 3. Add content slides with bullet points
 4. Add images or charts as needed
 5. Save the presentation
-```
+
 
 ### Add Visual Content
-```
+
 1. Use add_image to insert graphics
 2. Use add_chart for data visualization
 3. Use add_table for structured data
 4. Apply consistent formatting
-```
+
 
 ## Best Practices
 
