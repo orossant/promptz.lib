@@ -151,7 +151,7 @@ create_slide_from_template(template_id="title_slide",
 
 ## 📁 Project Structure
 
-```
+
 powerpoint-creator/
 ├── POWER.md                    # Power documentation
 ├── README.md                   # This file
@@ -161,7 +161,7 @@ powerpoint-creator/
     ├── create-presentation.md  # Creation workflows
     ├── edit-presentation.md    # Editing workflows
     └── visual-content.md       # Visual design guides
-```
+
 
 ## 🔧 Configuration
 
