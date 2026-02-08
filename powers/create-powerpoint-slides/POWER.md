@@ -16,7 +16,7 @@ Before using this power, ensure you have:
 
 ## Available Tools
 
-This power provides 32 tools organized into specialized modules:
+This power provides tools organized into specialized modules:
 
 ### Presentation Management
 - `create_presentation` - Create a new PowerPoint presentation
