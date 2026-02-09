@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "powerpoint": {
+      "command": "/path/to/powerpoint-env/bin/python",
+      "args": ["-m", "ppt_mcp_server"]
+    }
+  }
+}
